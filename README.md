@@ -8,7 +8,7 @@
 
 <h2>Certifications</h2>
 
-- [Comptia Securtiy+ SY0-701](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Comptia Securtiy+ SY0-701](https://www.credly.com/badges/7e16f694-3436-422e-b897-1b50687f55b5/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
