@@ -4,7 +4,7 @@
 
   - [Active Directory Home Lab](https://github.com/dominicclark38-pixel/ActiveDirectoryLab)
   - [OS Ticket Home Lab](https://github.com/dominicclark38-pixel/ActiveDirectoryLab)
-  - [Network Troubleshooting Home Lab](https://github.com/dominicclark38-pixel/ActiveDirectoryLab)
+  - [IT Operations Troubleshooting Runbook](https://github.com/dominicclark38-pixel/ActiveDirectoryLab)
 
 <h2>Certifications</h2>
 
