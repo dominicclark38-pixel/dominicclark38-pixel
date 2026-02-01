@@ -1,6 +1,6 @@
-<h1>Hi, I'm Dominic! </h1>
+<h1>Hello, I'm Dominic Clark! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/dominicclark38-pixel/ActiveDirectoryLab)
   - [OS Ticket Home Lab](https://github.com/dominicclark38-pixel/ActiveDirectoryLab)
