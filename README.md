@@ -12,10 +12,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="www.linkedin.com/in/dominic-clark7777" />][linkedin]
+https://www.linkedin.com/in/dominic-clark7777/
 
-[linkedin]: www.linkedin.com/in/dominic-clark7777
-
+[linkedin]:www.linkedin.com/in/dominic-clark7777
+dominic.clark38@gmail.com
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
