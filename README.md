@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/dominicclark38-pixel/ActiveDirectoryLab)
-  - [OS Ticket Home Lab](https://github.com/dominicclark38-pixel/osTicket-Help-Desk-Lab-Microsoft-Azure/blob/main/README.md)
+  - [OS Ticket Home Lab](https://github.com/dominicclark38-pixel/osTicket-Help-Desk-Lab-Microsoft-Azure/tree/main)
   - [IT Operations Troubleshooting Runbook](https://github.com/dominicclark38-pixel/IT-Operations-Troubleshooting-Runbook/tree/main)
 
 <h2>Certifications</h2>
